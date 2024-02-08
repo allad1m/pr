@@ -56,7 +56,7 @@ namespace UnitTests
                 null,
                 CultureInfo.InvariantCulture
                 );
-            Assert.Equal("Истина", actualValue);
+            Assert.Equal("РСЃС‚РёРЅР°", actualValue);
         }
     }
 }
